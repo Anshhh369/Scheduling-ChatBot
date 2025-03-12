@@ -1,4 +1,4 @@
-# Chatbot
+# Scheduling ChatBot
  Langchain chatbot
 
 chatbot, which seamlessly collects information from users and streamlines the appointment scheduling process. In today’s fast-paced world, convenience and efficiency are paramount when it comes to scheduling appointments. Recognizing this need, I embarked on a journey to create a chatbot that serves as a reliable scheduling assistant for booking service appointments with a bank.
